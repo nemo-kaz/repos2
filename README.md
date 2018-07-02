@@ -10,3 +10,4 @@ Repositoryのメモ
 * commit *
 追加しましたのです
 
+- github上で書き足しました
