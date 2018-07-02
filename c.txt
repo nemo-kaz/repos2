@@ -1,0 +1,2 @@
+
+server 上で作成した c.txt
